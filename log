@@ -1,0 +1,890 @@
+[23:56:12] [main/INFO]: Loading tweak class name optifine.OptiFineTweaker
+[23:56:12] [main/INFO]: Using primary tweak class name optifine.OptiFineTweaker
+[23:56:12] [main/INFO]: Calling tweak class optifine.OptiFineTweaker
+[23:56:12] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[23:56:13] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.ICapabilityProvider
+[23:56:13] [main/INFO]: [OptiFine] (Reflector) Field not found: World.tileEntitiesToBeRemoved
+[23:56:13] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event$Result
+[23:56:13] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.hasTileEntity
+[23:56:13] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEntity
+[23:56:13] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.CrashReportExtender
+[23:56:13] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[23:56:13] [main/INFO]: Setting user: Brosiyeah
+[23:56:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
+[23:56:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
+[23:56:20] [main/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[23:56:21] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.loading.progress.EarlyProgressVisualization
+[23:56:24] [main/INFO]: [OptiFine] 
+[23:56:24] [main/INFO]: [OptiFine] OptiFine_1.15.2_HD_U_G1_pre23
+[23:56:24] [main/INFO]: [OptiFine] Build: 20200607-215525
+[23:56:24] [main/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[23:56:24] [main/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[23:56:24] [main/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[23:56:24] [main/INFO]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
+[23:56:24] [main/INFO]: [OptiFine] OpenGL: GeForce GTX 1660 Ti with Max-Q Design/PCIe/SSE2, version 4.6.0 NVIDIA 445.75, NVIDIA Corporation
+[23:56:24] [main/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[23:56:24] [main/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[23:56:24] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[23:56:24] [main/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 445.75
+[23:56:24] [main/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[23:56:24] [main/INFO]: [Shaders] Renderer: GeForce GTX 1660 Ti with Max-Q Design/PCIe/SSE2
+[23:56:24] [main/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[23:56:24] [main/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[23:56:24] [main/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[23:56:24] [main/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[23:56:24] [main/INFO]: [Shaders] Load shaders configuration.
+[23:56:24] [main/INFO]: [Shaders] No shaderpack loaded.
+[23:56:24] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[23:56:24] [VersionCheck/INFO]: [OptiFine] java.io.FileNotFoundException: http://optifine.net/version/1.15.2/HD_U.txt
+[23:56:24] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ForgeI18n
+[23:56:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[23:56:25] [main/WARN]: [OptiFine] PlayerItemsLayer not registered
+[23:56:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.ForgeBlockModelRenderer
+[23:56:26] [main/INFO]: Narrator library for x64 successfully loaded
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.gui.screen.ModListScreen
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
+[23:56:27] [main/INFO]: Reloading ResourceManager: Default, Bros Flows
+[23:56:27] [main/INFO]: [OptiFine] *** Reloading textures ***
+[23:56:27] [main/INFO]: [OptiFine] Resource packs: Bros Flows
+[23:56:27] [main/INFO]: [OptiFine] EmissiveTextures: Loading optifine/emissive.properties
+[23:56:27] [main/INFO]: [OptiFine] *** Reflector Forge ***
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.BrandingControl
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.CapabilityProvider
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientModLoader
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkDataEvent$Save
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Load
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Unload
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientHooks
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.DimensionManager
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityJoinWorldEvent
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.isCanceled
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.getResult
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.IEventBus
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeBlock
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: drj.getTexture
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addDestroyEffects
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addHitEffects
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getLightValue
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getSoundType
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getStateAtViewpoint
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.isAir
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.shouldDisplayFluidOverlay
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeFluid
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fluids.FluidAttributes
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: aku.getTags
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Field not present: akz.NAMETAG_DISTANCE
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: coi.getTags
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig$Client
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec$ConfigValue
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItem
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItemStack
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: dbk.setKeyConflictContext
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: dbk.setKeyModifierAndCode
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: dbk.getKeyModifier
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEffectInstance
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.registries.ForgeRegistryEntry
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: dqo.canRenderInLayer
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Method not present: dqo.canRenderInLayer
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeTileEntity
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeDimension
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader$VanillaLoader
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoaderRegistry
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.PlaySoundAtEntityEvent
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderNameplateEvent
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.server.ServerLifecycleHooks
+[23:56:27] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[23:56:27] [main/INFO]: [OptiFine] *** Reflector Vanilla ***
+[23:56:27] [main/INFO]: [OptiFine] Loading optifine/color.properties
+[23:56:29] [Server-Worker-1/INFO]: [OptiFine] Multitexture: false
+[23:56:29] [Server-Worker-2/INFO]: [OptiFine] Multitexture: false
+[23:56:29] [Server-Worker-7/INFO]: [OptiFine] Multitexture: false
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/elytra/armored_elytra.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/models/voyager_1/boots.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/models/voyager_1/chestplate.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/models/voyager_1/helmet.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/models/voyager_1/layer_1.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/models/voyager_1/layer_2.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/models/voyager_1/leggings.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/renames/ablockalypse.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/renames/cthulhu_idol.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/renames/gold_key.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/renames/hedgehog_stew.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/renames/hollow_totem.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/renames/iron_key.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/renames/p_mask.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/renames/sonic_screwdriver.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/renames/stardust.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/renames/stormbreaker.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/renames/worldedit.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/bat.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/blaze.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/cat.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/cave_spider.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/chicken.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/cod.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/cow.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/creeper.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/dolphin.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/donkey.properties
+[23:56:34] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/drowned.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/elder_guardian.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/ender_dragon.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] Item not found: ender_dragon_spawn_egg
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/enderman.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/endermite.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/evoker.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/fox.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/ghast.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/guardian.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/horse.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/husk.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/illusioner.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] Item not found: illusion_illager_spawn_egg
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/iron_golem.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] Item not found: iron_golem_spawn_egg
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/llama.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/magma_cube.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/mooshroom.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/mule.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/ocelot.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/panda.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/parrot.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/phantom.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/pig.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/pillager.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/polar_bear.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/pufferfish.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/rabbit.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/ravager.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/salmon.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/sheep.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/shulker.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/silverfish.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/skeleton.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/skeleton_horse.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/slime.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/snow_golem.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] Item not found: snow_golem_spawn_egg
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/spider.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/squid.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/stray.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/trader_llama.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/tropical_fish.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/turtle.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/vex.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/villager.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/vindicator.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/wandering_trader.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/witch.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/wither.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] Item not found: wither_spawn_egg
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/wither_skeleton.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/wolf.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/zombie.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/zombie_horse.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/zombie_pigman.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/spawn_egg/zombie_villager.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/brinely/brinely_gray_lgray.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/dasher/dasher_white_gray.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/flopper/flopper_white_pink.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/glitter/glitter_lblue_green.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/glitter/glitter_red_yellow.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/anemone.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/angelfish_queen.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/betta_cotton_candy.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/blenny_red_lipped.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/butterfly_fish.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/butterfly_fish_ornate.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/cichlid.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/cichlid_red.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/clownfish_tomato.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/dottyback.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/goatfish.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/moorish_idol.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/parrotfish.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/parrotfish_yellowtail.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/red_snapper.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/red_snapper_emperor.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/tang_black.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/tang_blue.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/tang_yellow.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/threadfin.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/presets/triggerfish.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/stripey/stripey_yellow.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/sunstreak/sunstreak_lblue_gray.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] CustomItems: optifine/cit/tropical_fish_buckets/sunstreak/sunstreak_white_lgray.properties
+[23:56:35] [Server-Worker-6/WARN]: Unable to load model: 'minecraft:optifine/cit/renames/0_item#inventory' referenced from: minecraft:optifine/cit/renames/0_item#inventory: {}
+[23:56:35] [Server-Worker-6/WARN]: java.io.FileNotFoundException: minecraft:optifine/cit/renames/0_item.json
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:block/red_tulip
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:block/pink_tulip
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:block/acacia_sapling
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:block/white_tulip
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:item/hat/fisherman
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:item/hat/tophat
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:block/sweet_berry_bush_stage3
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:block/sweet_berry_bush_stage2
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:block/jungle_sapling
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:block/spruce_sapling
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:block/birch_sapling
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:block/potted_poppy
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:block/azure_bluet
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:block/orange_tulip
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:block/oak_sapling
+[23:56:35] [Server-Worker-6/WARN]: Unable to resolve texture reference: #missing in minecraft:block/dark_oak_sapling
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] Multitexture: false
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_biome/cattails/0.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_biome/cherry/birch.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_biome/end_exit/end_exit.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_biome/fall/birch.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_biome/grass/grass.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_biome/lantern/paper_lantern.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_biome/pumpkin/pumpkin_side.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_biome/pumpkin/pumpkin_top.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_biome/table/bottom.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_biome/table/side.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_biome/table/top.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/andesite/andesite.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/bookshelf/bookshelf.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/bookshelf2/bookshelf.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/bookshelf3/bookshelf.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/coarse_dirt/coarse_dirt.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:silver_glazed_terracotta
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:stained_hardened_clay
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:hardened_clay
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:planks
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/cobblestone/cobblestone.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:cobblestone_slab_double
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/diorite/diorite.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/dirt/dirt.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:black_terracottaterracotta
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:silver_glazed_terracotta
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:planks
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:stained_hardened_clay
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:hardened_clay
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/dispenser/dispenser.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/granite/granite.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/grass_block/grass_block.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:planks
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:silver_glazed_terracotta
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:stained_hardened_clay
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:hardened_clay
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/gravel/gravel.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:black_terracottaterracotta
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:silver_glazed_terracotta
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:planks
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Invalid number: stone
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/netherrack/netherrack.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/podzol/podzol.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:silver_glazed_terracotta
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:stained_hardened_clay
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:hardened_clay
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:planks
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:stonebrick
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:cobblestone_mossy_beach
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:cobblestone_mossy_birch
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:cobblestone_mossy_coldbeach
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:cobblestone_mossy_darkoak
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:cobblestone_mossy_desert
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:cobblestone_mossy_extremehills
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:cobblestone_mossy_forest
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:cobblestone_mossy_iceplains
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:cobblestone_mossy_jungle
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:cobblestone_mossy_mushroom
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:cobblestone_mossy_plains
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:cobblestone_mossy_swamp
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:cobblestone_mossy_taiga
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/red_sand/red_sand.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:hardened_clay
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:0
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:1
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:2
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:3
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:4
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:5
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:6
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:7
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:8
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:9
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:10
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:11
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:12
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:13
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:14
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: stained_hardened_clay:15
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: dirt:2
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:silver_glazed_terracotta
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:planks
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:stonebrick
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Invalid number: red_sand
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/black_lamp_on/black_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/blue_lamp_on/blue_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/brown_lamp_on/brown_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/cyan_lamp_on/cyan_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/gray_lamp_on/gray_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/green_lamp_on/green_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/light_blue_lamp_on/light_blue_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/light_gray_lamp_on/light_gray_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/lime_lamp_on/lime_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/magenta_lamp_on/magenta_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/orange_lamp_on/orange_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/pink_lamp_on/pink_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/purple_lamp_on/purple_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/red_lamp_on/red_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/white_lamp_on/white_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/redstone_lamp/yellow_lamp_on/yellow_lamp.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/sand/sand.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Block not found for name: minecraft:silver_glazed_terracotta
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] ConnectedTextures: Invalid number: sand
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_overlays/stone/stone.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_tints/mossy/bricks/cobble.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_tints/mossy/bricks/infested.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_tints/mossy/brickslab/cobble.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_tints/mossy/brickslab/cobble2.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_tints/mossy/cobble/cobble.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_tints/mossy/cobbleslab/cobbleslab.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_tints/mossy/seagrass/seagrass.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/_tints/podzol/podzol.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/acacia_planks/acacia_planks.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/acacia_slab/acacia.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/acacia_slab_top/acacia_top.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/bass/bass.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/beehive_end fix me/beehive_end.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] File not found: textures/block/beehiveend.png
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/beehive_front/beehive_front.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/beehive_front/beehive_front.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/beehive_front_honey/beehive_front_honey.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/beehive_front_honey/beehive_front_honey.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/beehive_side/beehive_side.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/birch_planks/birch_planks.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/birch_slab/birch.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/birch_slab_top/birch.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/chiseled_bricks/chiseled_stone_bricks.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/chiseled_quartz/quartz.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/crafting_table/front.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/crafting_table/side.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/crafting_table/top.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/cut_red_sandstone/sandstone.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/cut_sandstone/sandstone.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/dark_oak_planks/dark_oak_planks.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/dark_oak_slab/dark_oak.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/dark_oak_slab_top/dark_oak.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/dark_prismarine_slab/dark_prismarine_slab.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/dark_prismarine_slab_top/dark_prismarine.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/diamond_block/diamond_block.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/emerald_block/emerald_block.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/gold_block/gold.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/iron_block/iron.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/jigsaw_top fix me/jigsaw_top.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] File not found: textures/block/jigsaw_tops.png
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/jungle_slab/jungle.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/jungle_slab_top/jungle.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/jungle_trapdoor _alt/jungle_trapdoor.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/jungle_trapdoor/jungle_trapdoor.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/lapis_block/lapis.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/oak_planks/oak_planks.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/oak_slab/oak.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/oak_slab_top/oak.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/piston_bottom/piston_bottom.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] File not found: optifine/ctm/piston_bottom/0.png
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/polished_andesite/andesite.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/polished_diorite/diorite.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/polished_granite/granite.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/prismarine_bricks/bricks.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/red_mushroom/red_mushroom.properties
+[23:56:35] [Server-Worker-6/WARN]: [OptiFine] Unknown symmetry: none
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/redstone_block/redstone.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/sea_lantern/sea_lantern.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/smooth_stone_slab/smooth_stone.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/spruce_planks/spruce_planks.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/spruce_slab/spruce.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/spruce_slab_top/spruce.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] Multipass connected textures: false
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] Multipass connected textures: false
+[23:56:35] [Server-Worker-6/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[23:56:40] [Server-Worker-6/INFO]: [OptiFine] Mipmap levels: 4
+[23:56:40] [Server-Worker-4/ERROR]: Using missing texture, unable to load minecraft:optifine/ctm/piston_bottom/0.png : java.io.FileNotFoundException: minecraft:optifine/ctm/piston_bottom/0.png
+[23:56:40] [Server-Worker-1/ERROR]: Using missing texture, unable to load minecraft:textures/block/beehiveend.png : java.io.FileNotFoundException: minecraft:textures/block/beehiveend.png
+[23:56:40] [Server-Worker-1/ERROR]: Using missing texture, unable to load minecraft:textures/block/jigsaw_tops.png : java.io.FileNotFoundException: minecraft:textures/block/jigsaw_tops.png
+[23:56:40] [Server-Worker-6/WARN]: Texture minecraft:block/hanging_roses with size 16x23 limits mip level from 4 to 0
+[23:56:40] [Server-Worker-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:block/jukebox_side_on, 236 -> 240
+[23:56:40] [Server-Worker-6/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 0, because of minimum power of two: 1
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Multitexture: false
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Sprite size: 64
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Mipmap levels: 6
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Multitexture: false
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Sprite size: 64
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Mipmap levels: 6
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Multitexture: false
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Sprite size: 128
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Mipmap levels: 7
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Multitexture: false
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Sprite size: 64
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Mipmap levels: 6
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Multitexture: false
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Sprite size: 64
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Mipmap levels: 6
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Multitexture: false
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Sprite size: 64
+[23:56:41] [Server-Worker-6/INFO]: [OptiFine] Mipmap levels: 6
+[23:56:41] [main/INFO]: OpenAL initialized.
+[23:56:41] [main/INFO]: Sound engine started
+[23:56:41] [main/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/blocks.png-atlas
+[23:56:41] [main/WARN]: [OptiFine] Missing CTM sprite: minecraft:block/beehiveend, properties: optifine/ctm/beehive_end fix me
+[23:56:41] [main/WARN]: [OptiFine] Missing CTM sprite: minecraft:block/jigsaw_tops, properties: optifine/ctm/jigsaw_top fix me
+[23:56:41] [main/WARN]: [OptiFine] Missing CTM sprite: minecraft:optifine/ctm/piston_bottom/0, properties: optifine/ctm/piston_bottom
+[23:56:41] [main/INFO]: [OptiFine] Animated sprites: 49
+[23:56:41] [main/INFO]: Created: 128x128x4 minecraft:textures/atlas/signs.png-atlas
+[23:56:41] [main/INFO]: [OptiFine] Animated sprites: 0
+[23:56:41] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[23:56:41] [main/INFO]: [OptiFine] Animated sprites: 0
+[23:56:41] [main/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[23:56:41] [main/INFO]: [OptiFine] Animated sprites: 0
+[23:56:41] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[23:56:41] [main/INFO]: [OptiFine] Animated sprites: 0
+[23:56:41] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[23:56:41] [main/INFO]: [OptiFine] Animated sprites: 0
+[23:56:41] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[23:56:41] [main/INFO]: [OptiFine] Animated sprites: 0
+[23:56:42] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[23:56:42] [main/INFO]: [OptiFine] Animated sprites: 0
+[23:56:42] [main/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/paintings.png-atlas
+[23:56:42] [main/INFO]: [OptiFine] Animated sprites: 0
+[23:56:42] [main/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[23:56:42] [main/INFO]: [OptiFine] Animated sprites: 0
+[23:56:42] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[23:56:42] [main/INFO]: [OptiFine] Natural Textures: Parsing default configuration "optifine/natural.properties"
+[23:56:42] [main/INFO]: [OptiFine] Natural Textures: Valid only for textures from default resource pack
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Colormap optifine/colormap/water.png
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Colormap optifine/colormap/sky0.png
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Colormap optifine/colormap/fog0.png
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Colormap optifine/colormap/underwater.png
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Colormap optifine/lightmap/world-1.png
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Colormap optifine/lightmap/world0.png
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Colormap optifine/lightmap/world1.png
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Loading optifine/color.properties
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: particle.portal = ff4ce5
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Spawn egg shell colors: 55
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Spawn egg spot colors: 55
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Block colormap: optifine/colormap/custom/birch.properties
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Block colormap: optifine/colormap/custom/oak.properties
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Block colormap: optifine/colormap/custom/plants.properties
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Block colormap: optifine/colormap/custom/plantstiles.properties
+[23:56:43] [main/WARN]: [OptiFine] Colormap: Block not found for name: minecraft:plantstiles
+[23:56:43] [main/WARN]: [OptiFine] CustomColors: Match blocks not defined: optifine/colormap/custom/plantstiles.properties
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Block colormap: optifine/colormap/custom/spruce.properties
+[23:56:43] [main/INFO]: [OptiFine] CustomColors: Block colormap: optifine/colormap/custom/water.properties
+[23:56:43] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky1.properties
+[23:56:43] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky2.properties
+[23:56:43] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky3.properties
+[23:56:43] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky4.properties
+[23:56:43] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky5.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky6.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky7.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky8.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky9.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky10.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky: Texture not found: minecraft:optifine/sky/world0/sky_clouds1.png
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky11.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky: Texture not found: minecraft:optifine/sky/world0/sky_starfield.png
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky12.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky: Texture not found: minecraft:optifine/sky/world0/sky_polaris_north_star.png
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky13.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky: Texture not found: minecraft:optifine/sky/world0/sky_polaris_north_star_night.png
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky14.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky15.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky16.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky17.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky18.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky19.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky20.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky21.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky22.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky23.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky24.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky25.properties
+[23:56:44] [main/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky26.properties
+[23:56:46] [main/INFO]: [OptiFine] RandomEntities: textures/entity/bee/bee.png, properties: optifine/mob/bee/bee.properties
+[23:56:46] [main/INFO]: [OptiFine] RandomEntities: textures/entity/bee/bee_angry.png, properties: optifine/mob/bee/bee.properties
+[23:56:46] [main/INFO]: [OptiFine] RandomEntities: textures/entity/bee/bee_angry_nectar.png, variants: 5
+[23:56:46] [main/INFO]: [OptiFine] RandomEntities: textures/entity/bee/bee_nectar.png, variants: 5
+[23:56:46] [main/INFO]: [OptiFine] RandomEntities: textures/entity/bee/bee_stinger.png, variants: 2
+[23:56:46] [main/INFO]: [OptiFine] RandomEntities: textures/entity/creeper/creeper.png, properties: optifine/mob/creeper/creeper.properties
+[23:56:46] [main/WARN]: [OptiFine] More weights defined than skins, trimming weights: optifine/mob/creeper/creeper.properties
+[23:56:46] [main/WARN]: [OptiFine] RandomEntities: Biome not found: GravellyMountains+
+[23:56:46] [main/WARN]: [OptiFine] RandomEntities: Biome not found: SnawyTaigaHills
+[23:56:46] [main/WARN]: [OptiFine] More weights defined than skins, trimming weights: optifine/mob/creeper/creeper.properties
+[23:56:46] [main/WARN]: [OptiFine] RandomEntities: Biome not found: Void
+[23:56:46] [main/INFO]: [OptiFine] RandomEntities: textures/entity/skeleton/skeleton.png, properties: optifine/mob/skeleton/skeleton.properties
+[23:56:46] [main/INFO]: [OptiFine] RandomEntities: textures/entity/skeleton/stray.png, properties: optifine/mob/skeleton/stray.properties
+[23:56:46] [main/INFO]: [OptiFine] RandomEntities: textures/entity/skeleton/stray_overlay.png, properties: optifine/mob/skeleton/stray_overlay.properties
+[23:56:46] [main/INFO]: [OptiFine] RandomEntities: textures/entity/turtle/big_sea_turtle.png, variants: 2
+[23:56:46] [main/INFO]: [OptiFine] RandomEntities: textures/entity/zombie/husk.png, properties: optifine/mob/zombie/husk.properties
+[23:56:46] [main/INFO]: [OptiFine] RandomEntities: textures/entity/chicken.png, properties: optifine/random/entity/chicken.properties
+[23:56:46] [main/INFO]: [OptiFine] RandomEntities: textures/entity/villager/type/plains.png, properties: optifine/random/entity/villager/type/plains.properties
+[23:56:46] [main/INFO]: [OptiFine] RandomEntities: textures/entity/villager/villager.png, properties: optifine/random/entity/villager/villager.properties
+[23:56:46] [main/INFO]: [OptiFine] CustomEntityModel: optifine/cem/minecart.jem
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/barrel.properties
+[23:56:47] [main/WARN]: [OptiFine] CustomGuis: Invalid container: barrel
+[23:56:47] [main/WARN]: [OptiFine] [CustomGuis] No container found: optifine/gui/container/barrel.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/chests/ender.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/black.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/blue.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/brown.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/cyan.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/gray.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/green.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/light_blue.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/light_gray.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/lime.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/magenta.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/orange.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/pink.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/purple.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/red.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/white.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomGuis: optifine/gui/container/shulker_box/yellow.properties
+[23:56:47] [main/INFO]: [OptiFine] CustomLoadingScreens: Loading optifine/gui/loading/loading.properties
+[23:56:47] [main/INFO]: [OptiFine] Disable Forge light pipeline
+[23:56:56] [main/INFO]: Connecting to cosmosminecraft.net, 25565
+[23:56:57] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[23:56:58] [main/INFO]: [CHAT] Current Tool: Default Tool
+[23:56:58] [main/INFO]: [CHAT] Brush Type: Snipe
+[23:56:58] [main/INFO]: [CHAT] Performer: Material
+[23:56:58] [main/INFO]: [CHAT] Voxel Material: AIR
+[23:56:58] [main/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at cwl.d(SourceFile:199) ~[cwl.class:?]
+	at dnp.a(SourceFile:2117) ~[dnp.class:?]
+	at os.a(SourceFile:122) ~[os.class:?]
+	at os.a(SourceFile:16) ~[os.class:?]
+	at lv.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:33) ~[lv.class:?]
+	at lv$$Lambda$2368/2066409950.run(Unknown Source) ~[?:?]
+	at ais.c(ThreadTaskExecutor.java:173) [ais.class:?]
+	at aiw.c(SourceFile:23) [aiw.class:?]
+	at ais.w(ThreadTaskExecutor.java:135) [ais.class:?]
+	at ais.bk(ThreadTaskExecutor.java:115) [ais.class:?]
+	at dbn.d(SourceFile:956) [dbn.class:?]
+	at dbn.d(SourceFile:619) [dbn.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[23:56:58] [main/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at cwl.d(SourceFile:199) ~[cwl.class:?]
+	at dnp.a(SourceFile:2117) ~[dnp.class:?]
+	at os.a(SourceFile:122) ~[os.class:?]
+	at os.a(SourceFile:16) ~[os.class:?]
+	at lv.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:33) ~[lv.class:?]
+	at lv$$Lambda$2368/2066409950.run(Unknown Source) ~[?:?]
+	at ais.c(ThreadTaskExecutor.java:173) [ais.class:?]
+	at aiw.c(SourceFile:23) [aiw.class:?]
+	at ais.w(ThreadTaskExecutor.java:135) [ais.class:?]
+	at ais.bk(ThreadTaskExecutor.java:115) [ais.class:?]
+	at dbn.d(SourceFile:956) [dbn.class:?]
+	at dbn.d(SourceFile:619) [dbn.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[23:56:58] [main/INFO]: [CHAT] Version 1.12.3 of ShopChest is available here.
+[23:56:58] [main/INFO]: [CHAT] Brosiyeah joined the game
+[23:57:01] [main/INFO]: [CHAT] Welcome to The Cosmos, Admin Brosiyeah!
+[23:57:01] [main/INFO]: [CHAT] Type /rules for the rules list.
+[23:57:01] [main/INFO]: [CHAT] Players online: 2 - World time: 6:00 AM
+[23:57:01] [main/INFO]: [CHAT] If you need anything, let the staff members know.
+[23:57:01] [main/INFO]: [CHAT] You have no new mail.
+[23:57:01] [main/INFO]: [CHAT] Set fly mode enabled for Admin Brosiyeah.
+[23:57:01] [main/INFO]: Loaded 787 advancements
+[23:57:01] [main/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at dnp.a(SourceFile:2089) ~[dnp.class:?]
+	at os.a(SourceFile:122) ~[os.class:?]
+	at os.a(SourceFile:16) ~[os.class:?]
+	at lv.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:33) ~[lv.class:?]
+	at lv$$Lambda$2368/2066409950.run(Unknown Source) ~[?:?]
+	at ais.c(ThreadTaskExecutor.java:173) [ais.class:?]
+	at aiw.c(SourceFile:23) [aiw.class:?]
+	at ais.w(ThreadTaskExecutor.java:135) [ais.class:?]
+	at ais.bk(ThreadTaskExecutor.java:115) [ais.class:?]
+	at dbn.d(SourceFile:956) [dbn.class:?]
+	at dbn.d(SourceFile:619) [dbn.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[23:57:01] [main/INFO]: [CHAT] [P2] Currently bypassing WorldEdit restriction.
+[23:57:01] [main/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at dnp.a(SourceFile:2089) ~[dnp.class:?]
+	at os.a(SourceFile:122) ~[os.class:?]
+	at os.a(SourceFile:16) ~[os.class:?]
+	at lv.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:33) ~[lv.class:?]
+	at lv$$Lambda$2368/2066409950.run(Unknown Source) ~[?:?]
+	at ais.c(ThreadTaskExecutor.java:173) [ais.class:?]
+	at aiw.c(SourceFile:23) [aiw.class:?]
+	at ais.w(ThreadTaskExecutor.java:135) [ais.class:?]
+	at ais.bk(ThreadTaskExecutor.java:115) [ais.class:?]
+	at dbn.d(SourceFile:956) [dbn.class:?]
+	at dbn.d(SourceFile:619) [dbn.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[23:57:02] [main/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at dnp.a(SourceFile:2089) ~[dnp.class:?]
+	at os.a(SourceFile:122) ~[os.class:?]
+	at os.a(SourceFile:16) ~[os.class:?]
+	at lv.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:33) ~[lv.class:?]
+	at lv$$Lambda$2368/2066409950.run(Unknown Source) ~[?:?]
+	at ais.c(ThreadTaskExecutor.java:173) [ais.class:?]
+	at aiw.c(SourceFile:23) [aiw.class:?]
+	at ais.w(ThreadTaskExecutor.java:135) [ais.class:?]
+	at ais.bk(ThreadTaskExecutor.java:115) [ais.class:?]
+	at dbn.d(SourceFile:956) [dbn.class:?]
+	at dbn.d(SourceFile:619) [dbn.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[23:57:03] [main/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at dnp.a(SourceFile:2089) ~[dnp.class:?]
+	at os.a(SourceFile:122) ~[os.class:?]
+	at os.a(SourceFile:16) ~[os.class:?]
+	at lv.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:33) ~[lv.class:?]
+	at lv$$Lambda$2368/2066409950.run(Unknown Source) ~[?:?]
+	at ais.c(ThreadTaskExecutor.java:173) [ais.class:?]
+	at aiw.c(SourceFile:23) [aiw.class:?]
+	at ais.w(ThreadTaskExecutor.java:135) [ais.class:?]
+	at ais.bk(ThreadTaskExecutor.java:115) [ais.class:?]
+	at dbn.d(SourceFile:956) [dbn.class:?]
+	at dbn.d(SourceFile:619) [dbn.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[23:57:05] [main/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at dnp.a(SourceFile:2089) ~[dnp.class:?]
+	at os.a(SourceFile:122) ~[os.class:?]
+	at os.a(SourceFile:16) ~[os.class:?]
+	at lv.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:33) ~[lv.class:?]
+	at lv$$Lambda$2368/2066409950.run(Unknown Source) ~[?:?]
+	at ais.c(ThreadTaskExecutor.java:173) [ais.class:?]
+	at aiw.c(SourceFile:23) [aiw.class:?]
+	at ais.w(ThreadTaskExecutor.java:135) [ais.class:?]
+	at ais.bk(ThreadTaskExecutor.java:115) [ais.class:?]
+	at dbn.d(SourceFile:956) [dbn.class:?]
+	at dbn.d(SourceFile:619) [dbn.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[23:57:06] [main/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at dnp.a(SourceFile:2089) ~[dnp.class:?]
+	at os.a(SourceFile:122) ~[os.class:?]
+	at os.a(SourceFile:16) ~[os.class:?]
+	at lv.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:33) ~[lv.class:?]
+	at lv$$Lambda$2368/2066409950.run(Unknown Source) ~[?:?]
+	at ais.c(ThreadTaskExecutor.java:173) [ais.class:?]
+	at aiw.c(SourceFile:23) [aiw.class:?]
+	at ais.w(ThreadTaskExecutor.java:135) [ais.class:?]
+	at ais.bk(ThreadTaskExecutor.java:115) [ais.class:?]
+	at dbn.d(SourceFile:956) [dbn.class:?]
+	at dbn.d(SourceFile:619) [dbn.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[23:57:08] [main/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at dnp.a(SourceFile:2089) ~[dnp.class:?]
+	at os.a(SourceFile:122) ~[os.class:?]
+	at os.a(SourceFile:16) ~[os.class:?]
+	at lv.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:33) ~[lv.class:?]
+	at lv$$Lambda$2368/2066409950.run(Unknown Source) ~[?:?]
+	at ais.c(ThreadTaskExecutor.java:173) [ais.class:?]
+	at aiw.c(SourceFile:23) [aiw.class:?]
+	at ais.w(ThreadTaskExecutor.java:135) [ais.class:?]
+	at ais.bk(ThreadTaskExecutor.java:115) [ais.class:?]
+	at dbn.d(SourceFile:956) [dbn.class:?]
+	at dbn.d(SourceFile:619) [dbn.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[23:57:09] [main/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at dnp.a(SourceFile:2089) ~[dnp.class:?]
+	at os.a(SourceFile:122) ~[os.class:?]
+	at os.a(SourceFile:16) ~[os.class:?]
+	at lv.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:33) ~[lv.class:?]
+	at lv$$Lambda$2368/2066409950.run(Unknown Source) ~[?:?]
+	at ais.c(ThreadTaskExecutor.java:173) [ais.class:?]
+	at aiw.c(SourceFile:23) [aiw.class:?]
+	at ais.w(ThreadTaskExecutor.java:135) [ais.class:?]
+	at ais.bk(ThreadTaskExecutor.java:115) [ais.class:?]
+	at dbn.d(SourceFile:956) [dbn.class:?]
+	at dbn.d(SourceFile:619) [dbn.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[23:57:11] [main/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at dnp.a(SourceFile:2089) ~[dnp.class:?]
+	at os.a(SourceFile:122) ~[os.class:?]
+	at os.a(SourceFile:16) ~[os.class:?]
+	at lv.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:33) ~[lv.class:?]
+	at lv$$Lambda$2368/2066409950.run(Unknown Source) ~[?:?]
+	at ais.c(ThreadTaskExecutor.java:173) [ais.class:?]
+	at aiw.c(SourceFile:23) [aiw.class:?]
+	at ais.w(ThreadTaskExecutor.java:135) [ais.class:?]
+	at ais.bk(ThreadTaskExecutor.java:115) [ais.class:?]
+	at dbn.d(SourceFile:956) [dbn.class:?]
+	at dbn.d(SourceFile:619) [dbn.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[23:57:12] [main/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at dnp.a(SourceFile:2089) ~[dnp.class:?]
+	at os.a(SourceFile:122) ~[os.class:?]
+	at os.a(SourceFile:16) ~[os.class:?]
+	at lv.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:33) ~[lv.class:?]
+	at lv$$Lambda$2368/2066409950.run(Unknown Source) ~[?:?]
+	at ais.c(ThreadTaskExecutor.java:173) [ais.class:?]
+	at aiw.c(SourceFile:23) [aiw.class:?]
+	at ais.w(ThreadTaskExecutor.java:135) [ais.class:?]
+	at ais.bk(ThreadTaskExecutor.java:115) [ais.class:?]
+	at dbn.d(SourceFile:956) [dbn.class:?]
+	at dbn.d(SourceFile:619) [dbn.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[23:57:14] [main/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at dnp.a(SourceFile:2089) ~[dnp.class:?]
+	at os.a(SourceFile:122) ~[os.class:?]
+	at os.a(SourceFile:16) ~[os.class:?]
+	at lv.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:33) ~[lv.class:?]
+	at lv$$Lambda$2368/2066409950.run(Unknown Source) ~[?:?]
+	at ais.c(ThreadTaskExecutor.java:173) [ais.class:?]
+	at aiw.c(SourceFile:23) [aiw.class:?]
+	at ais.w(ThreadTaskExecutor.java:135) [ais.class:?]
+	at ais.bk(ThreadTaskExecutor.java:115) [ais.class:?]
+	at dbn.d(SourceFile:956) [dbn.class:?]
+	at dbn.d(SourceFile:619) [dbn.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[23:57:15] [main/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at dnp.a(SourceFile:2089) ~[dnp.class:?]
+	at os.a(SourceFile:122) ~[os.class:?]
+	at os.a(SourceFile:16) ~[os.class:?]
+	at lv.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:33) ~[lv.class:?]
+	at lv$$Lambda$2368/2066409950.run(Unknown Source) ~[?:?]
+	at ais.c(ThreadTaskExecutor.java:173) [ais.class:?]
+	at aiw.c(SourceFile:23) [aiw.class:?]
+	at ais.w(ThreadTaskExecutor.java:135) [ais.class:?]
+	at ais.bk(ThreadTaskExecutor.java:115) [ais.class:?]
+	at dbn.d(SourceFile:956) [dbn.class:?]
+	at dbn.d(SourceFile:619) [dbn.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[23:57:16] [main/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at dnp.a(SourceFile:2089) ~[dnp.class:?]
+	at os.a(SourceFile:122) ~[os.class:?]
+	at os.a(SourceFile:16) ~[os.class:?]
+	at lv.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:33) ~[lv.class:?]
+	at lv$$Lambda$2368/2066409950.run(Unknown Source) ~[?:?]
+	at ais.c(ThreadTaskExecutor.java:173) [ais.class:?]
+	at aiw.c(SourceFile:23) [aiw.class:?]
+	at ais.w(ThreadTaskExecutor.java:135) [ais.class:?]
+	at ais.bk(ThreadTaskExecutor.java:115) [ais.class:?]
+	at dbn.d(SourceFile:956) [dbn.class:?]
+	at dbn.d(SourceFile:619) [dbn.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
